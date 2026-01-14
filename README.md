@@ -1,8 +1,8 @@
-# Konwerter Liczb: Dec na Hex (Rozwiązanie PP0504D)
+# Konwerter Liczb: Dec na Hex
 
 ## Opis
 Projekt jest propozycją rozwiązania problemu algorytmicznego [SPOJ PP0504D](https://pl.spoj.com/problems/PP0504D/).
-Program nie korzysta z wbudowanych funkcji formatowania (jak `hex()`), lecz implementuje **własny algorytm matematyczny** konwersji liczb zmiennoprzecinkowych z systemu dziesiętnego na szesnastkowy.
+Program nie korzysta z wbudowanych funkcji formatowania (jak `hex()`), lecz implementuje własny algorytm matematyczny konwersji liczb zmiennoprzecinkowych z systemu dziesiętnego na szesnastkowy.
 
 ## Jak to działa?
 Algorytm dzieli liczbę na część całkowitą i ułamkową:
